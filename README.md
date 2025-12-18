@@ -17,6 +17,5 @@ https://time-driven-model-app.vercel.app/
 
 ## Attribution
 
-Educational implementation of Victor H. Vroom’s Normative Model (2022).  
-Not affiliated with the author or publisher.
+Educational implementation inspired by Victor H. Vroom’s Normative Model (2022). Not affiliated with the author or publisher.
 
