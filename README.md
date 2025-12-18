@@ -13,7 +13,7 @@ balancing impact, urgency, fairness, and team commitment.
 
 ## \## Live Demo
 
-https://time-driven-model-app.vercel.app/
+https://howtodecide.app
 
 ## Attribution
 
